@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2tr1KuMQCM6GOiK0SK9QU0Yg+0C4NoMArlX320EP+pQ78S09O7wFG22HYU8s3iqznG1mZYlaz+OUoT1mbv7YDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Andre\\source\\repos\\ProxyLiveScraper\\ProxyLiveScraper\\ProxyLiveScraper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andre\\.nuget\\packages\\restsharp\\108.0.1\\restsharp.108.0.1.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
